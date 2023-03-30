@@ -82839,9 +82839,10 @@ s=1
 break
 case 1:return A.C(q,r)}})
 return A.D($async$hp,r)},
-gK9(){var s,r,q=this.a,p=q.gfw()
+gK9(){var s,r,q=this.a,p=q.id
+if(p==null){p=q.gfw()
 p.a.q(p)
-p=q.c.a
+p=q.c.a}else p=p.a
 s=this.b
 s===$&&A.b()
 r=q.id
@@ -83413,7 +83414,7 @@ s=s.a
 s===$&&A.b()
 s=200*(r/s.a)
 r=t.p
-return A.O_(B.bz,A.io(B.aN,A.a([A.cX(A.b1(A.a([p,o,n,A.b1(A.a([m,l,A.al(q,this.Yy(),q,q,q,q,new A.a7(s,0,s,0),q,q)],r),B.k,B.i,B.o)],r),B.k,B.i,B.r),q,q),new A.eW(B.yG,q,q,A.al(q,A.af("v1.7",q,q,q,q,q,q,q,A.b3(q,q,B.hk,q,q,q,q,q,q,q,q,20,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q),q,q,q,q,B.DA,q,q),q),new A.eW(B.yI,q,q,this.agm(),q)],r),B.ba))},
+return A.O_(B.bz,A.io(B.aN,A.a([A.cX(A.b1(A.a([p,o,n,A.b1(A.a([m,l,A.al(q,this.Yy(),q,q,q,q,new A.a7(s,0,s,0),q,q)],r),B.k,B.i,B.o)],r),B.k,B.i,B.r),q,q),new A.eW(B.yG,q,q,A.al(q,A.af("v1.8",q,q,q,q,q,q,q,A.b3(q,q,B.hk,q,q,q,q,q,q,q,q,20,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q),q,q,q,q,B.DA,q,q),q),new A.eW(B.yI,q,q,this.agm(),q)],r),B.ba))},
 ajg(){var s=null,r=A.eq(this.yh("Add a Watch Face",new A.mo(s,s),new A.aoG()),1),q=$.n(),p=q.gK()
 q=q.a
 q===$&&A.b()

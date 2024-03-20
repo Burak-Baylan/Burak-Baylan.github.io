@@ -103264,11 +103264,11 @@ s=1
 break}h.be("Getting latest real watch face number for this category...")
 s=14
 return A.j($.aZ().vX(h.Q.e),$async$mK)
-case 14:h.yd(!0,!0)
-n=$.aZ()
+case 14:n=$.aZ()
 m=n.gwC()
 m.a.l(m)
 n.cy.E(0,p.a9k())
+h.yd(!0,!0)
 h.oi()
 q=!0
 s=1
@@ -103537,7 +103537,7 @@ s=s.a
 s===$&&A.a()
 s=200*(r.a.a/s.a)
 r=t.p
-return A.n_(B.b2,A.dT(B.aw,A.b([A.by(A.ab(A.b([o,n,m,A.ab(A.b([l,k,A.a0(p,q.aa8(),B.f,p,p,p,p,p,new A.Z(s,0,s,0),p,p,p,p),B.Gs,q.aFk()],r),B.h,B.i,B.m)],r),B.h,B.i,B.o),p,p),new A.dQ(B.nk,p,p,A.a0(p,A.X("v2.30",p,p,p,p,p,p,p,A.at(p,p,B.ex,p,p,p,p,p,p,p,p,20,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),B.f,p,p,p,p,p,B.oV,p,p,p,p),p),new A.dQ(B.Cn,p,p,A.aE(A.b([q.awB(),new A.hB(new A.pH(p,p,p),p),q.aFi()],r),B.h,B.i,B.o),p)],r),B.O,B.at),p)},
+return A.n_(B.b2,A.dT(B.aw,A.b([A.by(A.ab(A.b([o,n,m,A.ab(A.b([l,k,A.a0(p,q.aa8(),B.f,p,p,p,p,p,new A.Z(s,0,s,0),p,p,p,p),B.Gs,q.aFk()],r),B.h,B.i,B.m)],r),B.h,B.i,B.o),p,p),new A.dQ(B.nk,p,p,A.a0(p,A.X("v2.31",p,p,p,p,p,p,p,A.at(p,p,B.ex,p,p,p,p,p,p,p,p,20,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),B.f,p,p,p,p,p,B.oV,p,p,p,p),p),new A.dQ(B.Cn,p,p,A.aE(A.b([q.awB(),new A.hB(new A.pH(p,p,p),p),q.aFi()],r),B.h,B.i,B.o),p)],r),B.O,B.at),p)},
 azx(){var s=null,r=A.cX(this.Ez("Add Watch Face",new A.o3(s,s),new A.aA2()),1),q=$.k(),p=q.d
 p===$&&A.a()
 q=q.a
@@ -103672,7 +103672,7 @@ $S:0}
 A.Qd.prototype={
 H(a){var s,r,q,p,o=null,n=this.c
 n.c=a
-s=A.a0(o,A.X("v2.30",o,o,o,o,o,o,o,A.at(o,o,B.ex,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o,o),B.f,o,o,o,o,o,B.oV,o,o,o,o)
+s=A.a0(o,A.X("v2.31",o,o,o,o,o,o,o,A.at(o,o,B.ex,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o,o),B.f,o,o,o,o,o,B.oV,o,o,o,o)
 r=$.k()
 q=r.d
 q===$&&A.a()
